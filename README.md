@@ -36,6 +36,3 @@ Layout Flexbox
 📸 Pré-visualização
 ⚠️ As imagens e ícones usados são referências fictícias e devem ser substituídos caso o projeto seja utilizado em produção.
 
-
-👨‍💻 Autor
-Desenvolvido por Andson Sillas — focado em aprimorar habilidades em front-end com projetos práticos.
