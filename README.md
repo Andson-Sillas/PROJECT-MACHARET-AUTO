@@ -26,32 +26,16 @@ A proposta do site é demonstrar a identidade visual da marca, exibir seus servi
 
 ✅ Rodapé com informações de contato e redes sociais
 
-🛠️ Tecnologias Utilizadas
-HTML5
+🛠️ Tecnologias Utilizadas:
 
-CSS3
-
+HTML5 E CSS3
 Responsividade com media queries
-
 Animações com @keyframes
-
 Layout Flexbox
 
 📸 Pré-visualização
 ⚠️ As imagens e ícones usados são referências fictícias e devem ser substituídos caso o projeto seja utilizado em produção.
 
-📁 Estrutura do Projeto
-plaintext
-Copiar
-Editar
-/
-├── index.html
-├── style.css
-└── /assets
-    ├── logo.png
-    ├── image-2.png
-    ├── image-2.1.png
-    ├── image-3.png
-    └── page-5.png
+
 👨‍💻 Autor
 Desenvolvido por Andson Sillas — focado em aprimorar habilidades em front-end com projetos práticos.
